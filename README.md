@@ -2,7 +2,7 @@
 ## Responsive Web Design Certification
 ### Survey Form
 
-This was the first of five Certification Projects in FreeCodeCamps Responsive Web Design Certification.
+This was the 1st of 5 Certification Projects in FreeCodeCamps Responsive Web Design Certification.
 
-View Page.
+[View Page](https://stefankarlsson1230.github.io/FreeCodeCamp-Responsive-Web-design-Certification-Survey_Form/).
 
